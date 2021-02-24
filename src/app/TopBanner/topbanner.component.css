@@ -1,0 +1,28 @@
+.a{
+    display: flex;
+    justify-content: center;
+    margin-top: 0;
+}
+.b{
+    background-color: aquamarine;
+}
+.c{
+    text-align: center;
+    color: black;
+    padding-top: 15px;
+    margin-top: 0;
+    
+}
+.img1{
+    width: 200px;
+    height: 200px;
+    margin: 10px 30px 30px 30px;
+    border-radius: 10px;
+}
+.img2,.img3{
+    width: 400px;
+    height: 200px;
+    margin: 10px 30px 30px 30px;
+    border-radius: 10px;
+}
+
